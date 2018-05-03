@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 30px;
+    background: url("https://million-wallpapers.com/wallpapers/1/47/417557172257179/wall-painted-heart.jpg") no-repeat;
+    background-attachment: fixed;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.content {
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    flex-flow: wrap;
+}
+img {
+    margin: 0 10px 30px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    width: 300px; 
+    height: auto;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    color: #000000;
+}
+i {
+    color: #cc1f1f;
+}
